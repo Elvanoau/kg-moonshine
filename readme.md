@@ -1,5 +1,5 @@
 # KG-Moonshine
-A Semi Basic MoonShine Script
+A Semi Basic QBCore MoonShine Script
 
 # Install
 Put In Server Files, Start Resource
